@@ -7,10 +7,10 @@ Based on Conways Game Of Life cellular automaton.
 You can see the full description here :
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
-##Pre-Requisite
+## Pre-Requisite
 - Java JDK 11
 
-##How to Run
+## How to Run
 
 **IDE** (Intellij, Eclipse)
 1. Clone the repo to your desired directory,
