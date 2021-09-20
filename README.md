@@ -1,7 +1,7 @@
 # Game-Of-Life
 Mini Bootcamp Engineering Task
 
-##Problem Description
+## Problem Description
 Based on Conways Game Of Life cellular automaton. 
 
 You can see the full description here :
